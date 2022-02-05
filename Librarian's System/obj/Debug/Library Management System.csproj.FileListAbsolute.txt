@@ -1,0 +1,38 @@
+C:\DINITH\NSBM\LMS\C#\Library Management System\bin\Debug\Library Management System.exe.config
+C:\DINITH\NSBM\LMS\C#\Library Management System\bin\Debug\Library Management System.exe
+C:\DINITH\NSBM\LMS\C#\Library Management System\bin\Debug\Library Management System.pdb
+C:\DINITH\NSBM\LMS\C#\Library Management System\obj\Debug\Library Management System.csprojAssemblyReference.cache
+C:\DINITH\NSBM\LMS\C#\Library Management System\obj\Debug\Library_Management_System.Form1.resources
+C:\DINITH\NSBM\LMS\C#\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\DINITH\NSBM\LMS\C#\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+C:\DINITH\NSBM\LMS\C#\Library Management System\obj\Debug\Library Management System.exe
+C:\DINITH\NSBM\LMS\C#\Library Management System\obj\Debug\Library Management System.pdb
+C:\DINITH\NSBM\LMS\C#\Library Management System\obj\Debug\Library_Management_System.Form2.resources
+C:\DINITH\NSBM\LMS\C#\Library Management System\obj\Debug\Library_Management_System.Form3.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\bin\Debug\Library Management System.exe.config
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\bin\Debug\Library Management System.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\bin\Debug\Library Management System.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library Management System.csprojAssemblyReference.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library_Management_System.Form1.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library_Management_System.Form2.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library_Management_System.Form3.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library Management System.csproj.GenerateResource.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library Management System.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library Management System.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library_Management_System.Form4.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library_Management_System.Form5.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Dinith\obj\Debug\Library_Management_System.Form6.resources
+C:\NSBMSmartLibray\Librarian's System\bin\Debug\Library Management System.exe.config
+C:\NSBMSmartLibray\Librarian's System\bin\Debug\Library Management System.exe
+C:\NSBMSmartLibray\Librarian's System\bin\Debug\Library Management System.pdb
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library Management System.csprojAssemblyReference.cache
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library_Management_System.Form1.resources
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library_Management_System.Form2.resources
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library_Management_System.Form4.resources
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library_Management_System.Form5.resources
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library_Management_System.Form6.resources
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library_Management_System.Properties.Resources.resources
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library Management System.csproj.GenerateResource.cache
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library Management System.exe
+C:\NSBMSmartLibray\Librarian's System\obj\Debug\Library Management System.pdb
