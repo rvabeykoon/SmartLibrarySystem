@@ -1,0 +1,145 @@
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe.config
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.pdb
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form1.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.exe
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.pdb
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form2.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form3.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form4.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form5.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form6.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form7.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form8.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form9.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form10.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form11.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form12.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form13.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form14.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form15.resources
+C:\Users\ADMIN\Desktop\My LMS\Program Projects\C- sharp\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form16.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe.config
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csprojAssemblyReference.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form1.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form10.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form11.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form12.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form13.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form14.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form15.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form16.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form2.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form3.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form4.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form5.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form6.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form7.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form8.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form9.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Properties.Resources.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csproj.GenerateResource.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csprojAssemblyReference.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form1.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form10.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form11.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form12.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form13.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form14.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form15.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form16.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form2.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form3.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form4.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form5.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form6.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form7.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form8.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form9.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Properties.Resources.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csproj.GenerateResource.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe.config
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe.config
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csprojAssemblyReference.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form1.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form10.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form11.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form12.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form13.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form14.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form15.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form16.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form2.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form3.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form4.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form5.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form6.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form7.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form8.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form9.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Properties.Resources.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csproj.GenerateResource.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\Retouch-NSBMSmartLibraynewforms\Retouch-NSBMSmartLibraynewforms\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form17.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe.config
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.pdb
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form1.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form17.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form2.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form3.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form4.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form5.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form6.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form9.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Properties.Resources.resources
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.exe
+C:\Users\Asus\Desktop\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csprojAssemblyReference.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form1.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form17.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form2.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form3.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form4.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form5.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form6.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form9.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Properties.Resources.resources
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csproj.GenerateResource.cache
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.pdb
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe.config
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe
+C:\DINITH\NSBM\LMS\C#\NsbmSmartLibrarySystem\NSBM-101\NSBMSmartLibray\NSBMSmartLibray\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.pdb
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe.config
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.exe
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\bin\Debug\NSBMSmartLibray.pdb
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csprojAssemblyReference.cache
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form1.resources
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form17.resources
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form2.resources
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form3.resources
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form4.resources
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form5.resources
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Form6.resources
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.Properties.Resources.resources
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.csproj.GenerateResource.cache
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.exe
+C:\NSBMSmartLibray\User's System\NSBMSmartLibray\obj\Debug\NSBMSmartLibray.pdb
